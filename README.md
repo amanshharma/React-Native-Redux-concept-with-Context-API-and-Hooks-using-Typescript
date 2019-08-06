@@ -1,3 +1,2 @@
-# WhatsApp Clone
+# React-Native-Redux-concept-with-Context-API-and-Hooks-using-Typescript
 
-## Fully functional WhatsApp Clone using React (Hooks+Suspense), GraphQL, Apollo, TypeScript and PostgreSQL
